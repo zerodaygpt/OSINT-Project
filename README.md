@@ -7,7 +7,7 @@ To experience OSINT and basic penetration process, including target basic inform
 
 *Highlight*: Total 8 hosts(sub-domain) under xxxcat.com are active at 26/May/2025 14:00. A total <u>53</u> vulnerabilities found include Info in terms of Nessus (ver: 10.8.4), **1 high risk**(CVSS 7.5); **4 medium**(CVSS 6.5/5.3) and **1 low** vulnerabilities, identified over 8 host,  nil known exploited vulnerabilities.
 
-
+<img width="962" height="346" alt="image-20250807185756-cotgcxj" src="https://github.com/user-attachments/assets/fdc94b1a-82a4-46eb-8c6d-0ea9b18bb4ff" />
 
 **Methodology**
 
